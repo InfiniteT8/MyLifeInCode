@@ -6249,3 +6249,8 @@ button.close {
   height: 34px;
 }
 
+img:hover {
+  background-color:blue;
+  opacity: 0.8;  
+  box-shadow: 0 1px 8px green;
+}
