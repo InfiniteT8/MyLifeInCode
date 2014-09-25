@@ -6,4 +6,10 @@ test/bower_components
 .DS_Store
 *.psd
 *.pdf
-images/terryresume.html
+*.log
+.tmp
+build
+*.node
+components
+*.orig
+.idea
